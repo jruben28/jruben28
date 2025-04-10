@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anythign that can teach me someting new and to make structurated proyects
 - 📫 How to reach me you can send me a DM on X @jruben28 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The first computer i used was when i was 4 years old, and my parents grounded me for downloading "innapropiate" games
+- ⚡ Fun fact: I started coding at 12 because my USB got infected by a virus and i used batch commands to fix it
 
 <!---
 jruben28/jruben28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
